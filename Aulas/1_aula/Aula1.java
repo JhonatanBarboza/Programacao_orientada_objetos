@@ -6,3 +6,4 @@ public class Aula1 {
     Cadeira c1 = new Cadeira("em Pé");
     
 }
+ 
